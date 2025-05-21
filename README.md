@@ -10,10 +10,10 @@
 
 | Feature                              | Description                                                           |
 | ------------------------------------ | --------------------------------------------------------------------- |
-| **Real-Time Face Mesh Overlay** 🤳🏻 | Detects and overlays a 3D face mesh in real time.                     |
+| **Real-Time Face Mesh Overlay** 🤳🏻   | Detects and overlays a 3D face mesh in real time.                     |
 | **Precise Landmark Mapping** 📍      | Maps 468 facial landmarks with high accuracy.                         |
 | **Lightweight and Fast** ⚡           | Optimized for performance with minimal latency.                       |
-| **Customizable** ⚙️                  | Easily tweak settings for face mesh detection and camera preferences. |
+| **Customizable** ⚙️                  | Easily tweak settings for face mesh detection.                         |
 | **Easy Integration** 🔗              | Integrates smoothly with OpenCV and Mediapipe.                        |
 
 ---
@@ -54,9 +54,39 @@ python app.py
 
 ## 🛠️ Contributing
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -am 'Add feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a Pull Request
-   
+We welcome contributions to **Meshify**!
+
+### 1. **Fork the Repository** 🍴
+
+### 2. **Clone Your Fork** 📥
+
+```bash
+git clone  https://github.com/KrishBharadwaj5678/Meshify.git
+cd Meshify
+```
+
+### 3. **Create a New Branch** 🌱
+
+```bash
+git checkout -b feature-branch
+```
+
+### 4. **Make Your Changes** 📝
+
+### 5. **Commit Your Changes** 💾
+
+```bash
+git add .
+git commit -m "Description of your changes"
+```
+
+### 6. **Push to Your Fork** ⬆️
+
+```bash
+git push origin feature-branch
+```
+
+### 7. **Open a Pull Request** 🔄
+
+* Go to the original **Meshify** repository and click **Compare & Pull Request**.
+* Provide a detailed description of your changes in the pull request and why they are being made.
