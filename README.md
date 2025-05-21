@@ -1,8 +1,8 @@
-# Meshify 
+# 🧑‍💻 Meshify 
 
-**Meshify** is a Python based real time face mesh detection application. It leverages **OpenCV**, **Mediapipe**, and **CVZone** to provide efficient and accurate facial landmark mapping through your camera. 
+**Meshify** is a Python based real time face mesh detection application. It leverages **OpenCV**, **Mediapipe**, and **CVZone** to provide efficient and accurate facial landmark mapping through your camera. 📸
 
-![Face Mesh Example](assets/mesh_example.gif)
+![Meshify](https://github.com/KrishBharadwaj5678/Meshify/raw/main/MeshifyDemo.png)
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Feature                              | Description                                                           |
 | ------------------------------------ | --------------------------------------------------------------------- |
-| **Real-Time Face Mesh Overlay** 🤳🏻   | Detects and overlays a 3D face mesh in real time.                     |
-| **Precise Landmark Mapping** 📍      | Maps 468 facial landmarks with high accuracy.                         |
-| **Lightweight and Fast** ⚡           | Optimized for performance with minimal latency.                       |
-| **Customizable** ⚙️                  | Easily tweak settings for face mesh detection.                         |
-| **Easy Integration** 🔗              | Integrates smoothly with OpenCV and Mediapipe.                        |
+| 🧠 **Real Time Face Mesh Overlay**    | Detects and overlays a 3D face mesh in real time.                     |
+| 🎯 **Precise Landmark Mapping**       | Maps 468 facial landmarks with high accuracy.                         |
+| ⚡ **Lightweight and Fast**            | Optimized for performance with minimal latency.                       |
+| ⚙️ **Customizable**                   | Easily tweak settings for face mesh detection.                         |
+| 🔗 **Easy Integration**               | Integrates smoothly with OpenCV and Mediapipe.                        |
 
 ---
 
@@ -22,10 +22,10 @@
 
 | Technology    | Description                                                                         |
 | ------------- | ----------------------------------------------------------------------------------- |
-| **OpenCV**    | Open source library for computer vision tasks like video capture and processing.    |
-| **Mediapipe** | Framework by Google for building multimodal pipelines.                              |
-| **CVZone**    | High level library built on top of OpenCV to simplify common computer vision tasks. |
-| **Python**    | The programming language used for developing the application.                       |
+| 🖥️ **OpenCV**    | Open source library for computer vision tasks like video capture and processing.    |
+| 🤖 **Mediapipe** | Framework by Google for building multimodal pipelines.                              |
+| 🧰 **CVZone**    | High level library built on top of OpenCV to simplify common computer vision tasks. |
+| 🐍 **Python**    | The programming language used for developing the application.                       |
 
 ---
 
