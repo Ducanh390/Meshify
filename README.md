@@ -18,6 +18,17 @@
 
 ---
 
+## 💻 Tech Stack
+
+| Technology    | Description                                                                         |
+| ------------- | ----------------------------------------------------------------------------------- |
+| **OpenCV**    | Open source library for computer vision tasks like video capture and processing.    |
+| **Mediapipe** | Framework by Google for building multimodal pipelines.                              |
+| **CVZone**    | High level library built on top of OpenCV to simplify common computer vision tasks. |
+| **Python**    | The programming language used for developing the application.                       |
+
+---
+
 ## ⚙️ Installation
 
 ### Install Dependencies
