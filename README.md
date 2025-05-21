@@ -31,19 +31,23 @@
 
 ## ⚙️ Installation
 
-### Install Dependencies
-
-Clone the repository and install the necessary Python libraries:
-
-```bash
-pip install opencv-python mediapipe cvzone
-```
-
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/meshify.git
+git clone https://github.com/KrishBharadwaj5678/Meshify.git
 cd Meshify
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Application
+
+```bash
+python app.py
 ```
 
 ---
