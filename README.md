@@ -1,0 +1,47 @@
+# Meshify 
+
+**Meshify** is a Python based real time face mesh detection application. It leverages **OpenCV**, **Mediapipe**, and **CVZone** to provide efficient and accurate facial landmark mapping through your camera. 
+
+![Face Mesh Example](assets/mesh_example.gif)
+
+---
+
+## 🚀 Features
+
+| Feature                              | Description                                                           |
+| ------------------------------------ | --------------------------------------------------------------------- |
+| **Real-Time Face Mesh Overlay** 🤳🏻 | Detects and overlays a 3D face mesh in real time.                     |
+| **Precise Landmark Mapping** 📍      | Maps 468 facial landmarks with high accuracy.                         |
+| **Lightweight and Fast** ⚡           | Optimized for performance with minimal latency.                       |
+| **Customizable** ⚙️                  | Easily tweak settings for face mesh detection and camera preferences. |
+| **Easy Integration** 🔗              | Integrates smoothly with OpenCV and Mediapipe.                        |
+
+---
+
+## ⚙️ Installation
+
+### Install Dependencies
+
+Clone the repository and install the necessary Python libraries:
+
+```bash
+pip install opencv-python mediapipe cvzone
+```
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/meshify.git
+cd Meshify
+```
+
+---
+
+## 🛠️ Contributing
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -am 'Add feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Open a Pull Request
+   
